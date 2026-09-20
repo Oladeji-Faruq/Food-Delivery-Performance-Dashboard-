@@ -109,4 +109,6 @@ The dashboard includes interactive filters for:
 * Traffic Level
 These filters allow users to explore different segments of the dataset and see how the dashboard metrics change.
 
-Dashboard: https://datastudio.google.com/reporting/a8748343-a4c5-450e-97c4-6b0f4b2701ad
+[Food Delivery Performance Dashboard](Food_Delivery_Performance_Dashboard.jpg)
+
+Interactive Dashboard: https://datastudio.google.com/reporting/a8748343-a4c5-450e-97c4-6b0f4b2701ad
