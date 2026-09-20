@@ -41,27 +41,25 @@ The dashboard visualizes:
 
 Deliveries by Region
 
-The number of deliveries varies across the five regions.
+**The number of deliveries varies across the five regions**
 * South: 54 deliveries
 * Central: 47 deliveries
 * West: 41 deliveries
 * North: 30 deliveries
 * East: 28 deliveries
 
-Average Delivery Time by Traffic Level
+**Average Delivery Time by Traffic Level**
 * Low Traffic: 47.05 minutes
 * High Traffic: 45.62 minutes
 * Medium Traffic: 41.62 minutes
 
-Average Delivery Time by Weather
+**Average Delivery Time by Weather**
 * Cloudy: 49.94 minutes
 * Windy: 43.17 minutes
 * Rainy: 42.77 minutes
 * Clear: 42.26 minutes
 
-Average Delivery Time by Delivery Mode
-
-The dashboard compares delivery times across:
+**Average Delivery Time by Delivery Mode**
 * Car
 * Bike
 * Scooter
@@ -91,7 +89,7 @@ This project analyzes delivery data to identify patterns in delivery time across
 * Weather differences were observed: Cloudy conditions had the highest average delivery time at approximately 49.94 minutes in this dataset.
 * Traffic levels showed different average delivery times: Medium traffic recorded the lowest average delivery time at approximately 41.62 minutes, while Low traffic recorded the highest at approximately 47.05 minutes.
 
-  **💡 Recommendations**
+**💡 Recommendations**
   
 Based on the analysis, the following actions could help improve delivery operations:
 1. **Optimize delivery routes**  
