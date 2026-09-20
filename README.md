@@ -1,6 +1,6 @@
 **🍔FOOD DELIVERY PERFORMANCE DASHBOARD**
 
-**Project Overview**
+**📊Project Overview**
 
 This project analyzes a 200-record food delivery dataset to understand delivery performance and the factors associated with delivery time.
 
@@ -8,7 +8,7 @@ The analysis was carried out using Microsoft Excel, with the results presented t
 
 The project focuses on delivery demand, delivery time, distance, traffic conditions, weather, delivery mode, and regional performance.
 
-**Project Objective**
+**🎯Project Objective**
 
 The main objective was to analyze food delivery routes and identify patterns that may affect delivery efficiency and delivery time.
 
@@ -20,14 +20,14 @@ The project explores questions such as:
 * Does weather affect delivery time?
 * How does delivery mode compare in terms of average delivery time?
 
-**Tools Used**
+**🛠️Tools Used**
 
 * Microsoft Excel
 * Pivot Tables
 * Pivot Charts
 * Looker Studio
 
-**Key Performance Indicators**
+**📌Key Performance Indicators**
 
 The dashboard includes the following KPIs:
 * Total Orders: 200
@@ -35,7 +35,7 @@ The dashboard includes the following KPIs:
 * Average Delivery Distance: 6.62 km
 * Number of Regions: 5
 
-**Dashboard Analysis**
+**📈Dashboard Analysis**
 
 The dashboard visualizes:
 
@@ -67,7 +67,7 @@ The dashboard compares delivery times across:
 * Scooter
 * Bicycle
 
-**Key Findings**
+**🔍Key Findings**
 
 One of the strongest relationships identified in the analysis was between delivery distance and delivery time.
 
@@ -104,7 +104,7 @@ Based on the analysis, the following actions could help improve delivery operati
    Regular analysis of delivery time, distance, traffic, and route data could help the business identify inefficiencies and improve operational planning.
 
 
-**Interactive Dashboard**
+**🎛️Interactive Dashboard**
 
 The dashboard includes interactive filters for:
 * Region
